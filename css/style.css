@@ -5,12 +5,13 @@ html,body{
 	font-family: Yanone Kaffeesatz;
 }
 #heads{
+	position: absolute;
+	height: 110px;
 	background-color: white;
 	width: 100%;
-	box-shadow: 20px 20px 2px black;
+	box-shadow: 0px 5px 5px black;
 }
 #sc1{
-	float: left;
 	width: 100%;
 }
 #zwest{
@@ -34,18 +35,27 @@ html,body{
 }
 #sop{
 	float: left;
-	margin-top: 20px;
 	margin-left: 45%;
+	margin-top: 20px;
+	margin-bottom: 50px;
 	font-size: 3em;
 	font-family: Yanone Kaffeesatz;
+	background-color: #FFFFFF91;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 15px;
+	border-radius: 50px;
+
 }
 #tab1{
-	margin-left: 10px;
-	margin-right:10px;
-	margin-top: 20px;
+	margin-left: 100px;
+	margin-right:100px;
+	margin-bottom:100px;
 }
 #by{
-	float: left;
-	background-image: url(img/bg1.jpg);
 	width: 100%;
+	background-image: url(../img/bg3.jpg);
+	background-repeat: repeat-x;
+	background-size: 100%;
 }
