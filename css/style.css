@@ -55,7 +55,7 @@ html,body{
 }
 #by{
 	width: 100%;
-	background-image: url(img/bg3.jpg);
+	background-image: url(../img/bg3.jpg);
 	background-repeat: repeat-x;
 	background-size: 100%;
 }
