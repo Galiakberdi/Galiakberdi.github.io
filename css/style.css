@@ -77,10 +77,12 @@ a{
 	background-size: 100%;
 }
 #tdshka{
+	float: left;
 	box-shadow: 0px 0px 10px black;
 	background-color: #FFFFFF8E;
 	padding-left: 10px;
 	font-family: Andika;
+	margin-right: 150px;
 }
 #za1{
 	color: white;
@@ -90,4 +92,7 @@ a{
 #artl{
 	margin-top: 10%;
 	float: left;
+}
+#tubl{
+	margin-left: 100px;
 }
