@@ -31,13 +31,29 @@ a{
 	text-decoration: none;
 }
 #button123{
+	text-align: center;
 	color:black;
+	height: 50px;
+	width: 200px;
 	font-size: 2em;
-	margin-top: 3%;
+	margin-top: 2%;
 	margin-right:2%;
 	float: right;
 	text-decoration: none;
+	transition: all.3s ease;
 }
+#button123:hover{
+	text-shadow:  0 0 2px black;
+	border-bottom: solid 5px;
+	border-top: solid 5px;
+	border-left: solid 5px;
+	border-right: solid 5px;
+	border-radius: 20px;
+	background-color: black;
+	color: white;
+	font-size: 3em;
+}
+
 #sop{
 	float: left;
 	margin-left: 45px;
@@ -85,9 +101,15 @@ a{
 	margin-right: 150px;
 }
 #za1{
+	font-size: 1.5em;
 	color: white;
-
-
+	background-color: #00000079;
+	border-radius: 20px;
+	transition: all.4s ease;
+}
+#za1:hover{
+	background-color: black;
+	box-shadow: 0 0 10px black;
 }
 #artl{
 	margin-top: 10%;
