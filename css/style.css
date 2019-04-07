@@ -9,15 +9,13 @@ a{
 	font-family: Yanone Kaffeesatz;
 	text-decoration: none;
 }
+/*  ШАПКА   */
 #heads{
-	position: absolute;
+	float: left;
 	height: 110px;
 	background-color: white;
 	width: 100%;
 	box-shadow: 0px 4px 5px black;
-}
-#sc1{
-	width: 100%;
 }
 #zwest{
 	float: left;
@@ -31,47 +29,60 @@ a{
 	text-decoration: none;
 }
 #button123{
+	float: right;
 	text-align: center;
 	color:black;
-	height: 50px;
-	width: 200px;
 	font-size: 2em;
-	margin-top: 2%;
-	margin-right:2%;
-	float: right;
+	width: 150px;
+	margin-top: 30px;
 	text-decoration: none;
 	transition: all.3s ease;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 #button123:hover{
 	text-shadow:  0 0 2px black;
-	border-bottom: solid 5px;
-	border-top: solid 5px;
-	border-left: solid 5px;
-	border-right: solid 5px;
-	border-radius: 20px;
+	margin-top: 20px;
 	background-color: black;
 	color: white;
 	font-size: 3em;
+	border-radius: 50px;
 }
+#logop{
+	margin-top: 10px;
+}
+/*  ШАПКА END   */
+
+
+/* INDEX */
+#sc1{
+	width: 100%;
+}
+/* INDEX END */
+
+
+
+/* SHOP */
 
 #sop{
 	float: left;
-	margin-left: 45px;
 	margin-top: 20px;
 	margin-bottom: 50px;
+	margin-left: 40%;
+	text-align: center;
 	font-size: 3em;
 	font-family: Yanone Kaffeesatz;
-	background-color: #FFFFFF91;
-	padding-left: 50px;
+	background-color: #FFFFFFFF;
 	padding-right: 50px;
+	padding-left: 50px;
 	padding-top: 20px;
 	padding-bottom: 15px;
 	border-radius: 50px;
 
 }
 #tab1{
-	margin-left: 100px;
-	margin-right:100px;
+	margin-left: 10px;
+	margin-right:10px;
 	margin-bottom:100px;
 }
 #by{
@@ -80,6 +91,9 @@ a{
 	background-repeat: repeat-x;
 	background-size: 100%;
 }
+/* SHOP END */
+
+/* ARTICLE */
 #article{
 	float:left;
 	margin-left: 10%;
@@ -118,6 +132,4 @@ a{
 #tubl{
 	margin-left: 100px;
 }
-#logop{
-	margin-top: 10px;
-}
+/* ARTICLE END */
