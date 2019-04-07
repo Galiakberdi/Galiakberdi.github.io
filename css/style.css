@@ -162,8 +162,6 @@ a{
 /*-------------------------------------------- ARTICLE --------------------------------------------*/
 #article{
 	float:left;
-	margin-left: 5%;
-	margin-top: 50px;
 }
 #bacground4{  				/* ФОН */
 	width: 100%;
@@ -179,7 +177,8 @@ a{
 	background-color: #FFFFFF8E;
 	padding-left: 10px;
 	font-family: Andika;
-	margin-right: 100px;
+	margin-right: 50px;
+	margin-bottom: 50px;
 }
 #za1{
 	float: right;
@@ -200,6 +199,7 @@ a{
 	float: left;
 }
 #tubl{
-	margin-left: 100px;
+	margin-top: 50px;
+	margin-left: 50px;
 }
 /* -------------------------------------------- ARTICLE END --------------------------------------------*/
