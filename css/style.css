@@ -9,7 +9,7 @@ a{
 	font-family: Yanone Kaffeesatz;
 	text-decoration: none;
 }
-/*  ШАПКА   */
+/*--------------------------------------------  ШАПКА  -------------------------------------------- */
 #heads{
 	float: left;
 	height: 110px;
@@ -50,10 +50,10 @@ a{
 #logop{
 	margin-top: 10px;
 }
-/*  ШАПКА END   */
+/*--------------------------------------------  ШАПКА END --------------------------------------------  */
 
 
-/* INDEX */
+/*-------------------------------------------- INDEX --------------------------------------------*/
 #sc1{
 	height: 2000px;
 	width: 100%;
@@ -80,7 +80,7 @@ a{
 
 
 
-/* SHOP */
+/* -------------------------------------------- SHOP --------------------------------------------*/
 
 #sop{
 	float: left;
@@ -111,13 +111,16 @@ a{
 	text-align: right;
 }
 #Opi{
-
+	text-decoration:underline;
+	margin-left: 40px;
 	font-weight: bold;
 	font-size: 1.5em;
 }
 #Std{
 	margin-top: 50px;
 	float: left;
+	width:45%;
+	height: auto;
 	color: black;
 	font-weight: bolder;
 	margin-right: 10%;
@@ -127,15 +130,29 @@ a{
 	font-family: Andika;
 	font-size: 1.3em;
 	line-height: 25px;
-	margin-right: 100px;
+	margin-right: 50px;
 }
-/* SHOP END */
+#Sa1{
+	float: right;
+	font-size: 1.5em;
+	font-weight: normal;
+	color: white;
+	background-color: #000000C4;
+	transition: all.2s ease;
+	padding: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#Sa1:hover{
+	background-color: #000000FF;
+}
+/* -------------------------------------------- SHOP END -------------------------------------------- */
 
-/* ARTICLE */
+/*-------------------------------------------- ARTICLE --------------------------------------------*/
 #article{
 	float:left;
-	margin-left: 10%;
-	margin-top: 200px;
+	margin-left: 5%;
+	margin-top: 50px;
 }
 #bacground4{
 	width: 100%;
@@ -151,7 +168,7 @@ a{
 	background-color: #FFFFFF8E;
 	padding-left: 10px;
 	font-family: Andika;
-	margin-right: 150px;
+	margin-right: 100px;
 }
 #za1{
 	float: right;
@@ -161,8 +178,8 @@ a{
 	background-color: #000000C4;
 	transition: all.2s ease;
 	padding: 10px;
-	margin-right: 50px;
-	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-bottom: 0px;
 }
 #za1:hover{
 	background-color: #000000FF;
@@ -174,4 +191,4 @@ a{
 #tubl{
 	margin-left: 100px;
 }
-/* ARTICLE END */
+/* -------------------------------------------- ARTICLE END --------------------------------------------*/
