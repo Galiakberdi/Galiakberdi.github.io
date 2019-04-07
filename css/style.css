@@ -64,16 +64,17 @@ a{
 #txt{
 	float: left;
 	margin-left: 5%;
-	margin-right: 50%;
+	margin-right: 30%;
 	margin-top: 2%;
 	color: black;
-	font-size: 2em;
+	font-size: 2.5em;
 	background-color: #FFFFFFA8;
 	padding-left: 50px;
 	padding-right: 50px;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	text-indent: 20px;
+	line-height: 50px;
 }
 /* INDEX END */
 
