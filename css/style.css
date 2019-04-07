@@ -111,16 +111,22 @@ a{
 	text-align: right;
 }
 #Opi{
-	font-size: 1.2em;
+
+	font-weight: bold;
+	font-size: 1.5em;
 }
 #Std{
-	width: 660px;
-	height: auto;
+	margin-top: 50px;
+	float: left;
+	color: black;
+	font-weight: bolder;
+	margin-right: 10%;
 	box-shadow: 0px 0px 10px black;
-	background-color: #BFFFA827;
+	background-color: #FFFFFFAD;
 	padding-left: 10px;
 	font-family: Andika;
-	margin-top: 50px;
+	font-size: 1.3em;
+	line-height: 25px;
 	margin-right: 100px;
 }
 /* SHOP END */
@@ -150,10 +156,13 @@ a{
 #za1{
 	float: right;
 	font-size: 1.5em;
+	font-weight: normal;
 	color: white;
 	background-color: #000000C4;
 	transition: all.2s ease;
 	padding: 10px;
+	margin-right: 50px;
+	margin-bottom: 20px;
 }
 #za1:hover{
 	background-color: #000000FF;
