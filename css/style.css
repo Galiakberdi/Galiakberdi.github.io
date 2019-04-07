@@ -59,6 +59,7 @@ a{
 	width: 100%;
 	background-repeat: no-repeat;
 	background-image: url(../img/bg2.jpg);
+	background-attachment: fixed;
 	background-size: 100%;
 }
 #txt{
@@ -73,7 +74,6 @@ a{
 	padding-right: 50px;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	text-indent: 20px;
 	line-height: 50px;
 }
 /* INDEX END */
@@ -103,8 +103,9 @@ a{
 }
 #by{
 	width: 100%;
-	background-image: url(../img/bg3.jpg);
+	background-image: url(https://pp.userapi.com/c850216/v850216713/12196d/rXlt5bUlhfw.jpg);
 	background-repeat: repeat-x;
+	background-attachment: fixed;
 	background-size: 100%;
 }
 #stxt{
@@ -134,6 +135,7 @@ a{
 	height: 1500px;
 	background-image: url(../img/bg3.jpg);
 	background-repeat: repeat-x;
+	background-attachment: fixed;
 	background-size: 100%;
 }
 #tdshka{
