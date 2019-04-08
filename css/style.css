@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700');
 @import url('https://fonts.googleapis.com/css?family=Andika&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 html,body{
 	margin: 0px;
 	padding: 0px;
@@ -245,7 +246,30 @@ a{
 	margin-top: 2%;
 	margin-right: 2%;
 	font-size: 1.3em;
-	text-shadow: ;
+	text-shadow: 1px 2px 0px white ;
+	font-family: Oswald;
+	font-weight: bold;
+
+}
+#artblack{
+	float: left;
+	background-color: #00000054;
+	width: 100%;
+	
+	color: white;
+	text-shadow: 1px 2px 0px black ;
+
+}
+#artwhite{
+	float: left;
+	background-color: #FFFFFF54;
+	width: 100%;
+	color: black;
+	text-shadow: 1px 1px 0px white ;
+
+}
+#art9{
+	font-size: 4em;
 }
 
 /* -------------------------------------------- ARTICLE 1-6 END --------------------------------------------*/
