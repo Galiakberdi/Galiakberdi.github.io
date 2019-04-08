@@ -177,60 +177,75 @@ a{
 /* -------------------------------------------- ARTICLE END --------------------------------------------*/
 /* -------------------------------------------- ARTICLE 1-6 --------------------------------------------*/
 #bacg1{
+	float: left;
 	width: 100%;
-	background-image: url(../img/bg3.jpg);
+	background-image: url(https://pp.userapi.com/c845419/v845419371/1e4c8b/k9sgvltfYPg.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
 }
 #bacg2{
+	float: left;
 	width: 100%;
-	background-image: url(../img/bg3.jpg);
+	background-image: url(https://pp.userapi.com/c845419/v845419371/1e4c8b/k9sgvltfYPg.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
 }
 #bacg3{
+	float: left;
 	width: 100%;
-	background-image: url(../img/bg3.jpg);
+	background-image: url(https://pp.userapi.com/c845419/v845419371/1e4c8b/k9sgvltfYPg.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
 }
 #bacg4{
+	float: left;
 	width: 100%;
-	background-image: url(../img/bg3.jpg);
+	background-image: url(https://pp.userapi.com/c845419/v845419371/1e4c8b/k9sgvltfYPg.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
 }
 #bacg5{
+	float: left;
 	width: 100%;
-	background-image: url(../img/bg3.jpg);
+	background-image: url(https://pp.userapi.com/c845419/v845419371/1e4c8b/k9sgvltfYPg.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
 }
 #bacg6{
 	width: 100%;
-	background-image: url(../img/bg3.jpg);
+	background-image: url(https://pp.userapi.com/c845419/v845419371/1e4c8b/k9sgvltfYPg.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
 }
 #bacg7{
+	float: left;
 	width: 100%;
-	background-image: url(../img/bg3.jpg);
+	background-image: url(https://pp.userapi.com/c845419/v845419371/1e4c8b/k9sgvltfYPg.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
 }
 #bacg8{
+	float: left;
 	width: 100%;
-	background-image: url(../img/bg3.jpg);
+	background-image: url(https://pp.userapi.com/c845419/v845419371/1e4c8b/k9sgvltfYPg.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
+}
+#arttxt{
+	float: left;
+	margin-left: 2%;
+	margin-top: 2%;
+	margin-right: 2%;
+	font-size: 1.3em;
+
 }
 
 /* -------------------------------------------- ARTICLE 1-6 END --------------------------------------------*/
