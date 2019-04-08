@@ -65,7 +65,7 @@ a{
 #txt{
 	float: left;
 	margin-left: 5%;
-	margin-right: 30%;
+	margin-right: 5%;
 	margin-top: 2%;
 	color: black;
 	font-size: 2.5em;
@@ -161,7 +161,8 @@ a{
 
 /*-------------------------------------------- ARTICLE --------------------------------------------*/
 #article{
-	float:left;
+	float: left;
+
 }
 #bacground4{  				/* ФОН */
 	width: 100%;
@@ -171,35 +172,84 @@ a{
 	background-attachment: fixed;
 	background-size: 100%;
 }
-#tdshka{
-	float: left;
-	box-shadow: 0px 0px 10px black;
-	background-color: #FFFFFF8E;
-	padding-left: 10px;
-	font-family: Andika;
-	margin-right: 50px;
-	margin-bottom: 50px;
-}
-#za1{
-	float: right;
-	font-size: 1.5em;
-	font-weight: normal;
-	color: white;
-	background-color: #000000C4;
-	transition: all.2s ease;
-	padding: 10px;
-	margin-right: 10px;
-	margin-bottom: 0px;
-}
-#za1:hover{
-	background-color: #000000FF;
-}
-#artl{
-	margin-top: 10%;
-	float: left;
-}
+
 #tubl{
 	margin-top: 50px;
-	margin-left: 50px;
+	margin-left: 5%;
 }
 /* -------------------------------------------- ARTICLE END --------------------------------------------*/
+/* -------------------------------------------- ARTICLE 1-6 --------------------------------------------*/
+#bacg1
+{
+	width: 100%;
+	height: 1500px;
+	background-image: url(../img/bg3.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+#bacg2
+{
+	width: 100%;
+	height: 1500px;
+	background-image: url(../img/bg3.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+#bacg3
+{
+	width: 100%;
+	height: 1500px;
+	background-image: url(../img/bg3.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+#bacg4
+{
+	width: 100%;
+	height: 1500px;
+	background-image: url(../img/bg3.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+#bacg5
+{
+	width: 100%;
+	height: 1500px;
+	background-image: url(../img/bg3.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+#bacg6
+{
+	width: 100%;
+	height: 1500px;
+	background-image: url(../img/bg3.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+#bacg7
+{
+	width: 100%;
+	height: 1500px;
+	background-image: url(../img/bg3.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+#bacg8
+{
+	width: 100%;
+	height: 1500px;
+	background-image: url(../img/bg3.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+/* -------------------------------------------- ARTICLE 1-6 END --------------------------------------------*/
