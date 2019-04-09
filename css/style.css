@@ -21,7 +21,7 @@ a{
 #zwest{
 	float: left;
 	margin-left: 3%;
-	margin-top: 1.31%;
+	margin-top: 30px;
 	margin-bottom: 1%;
 	font-size: 4em;
 	color:black;
@@ -65,8 +65,8 @@ a{
 }
 #txt{
 	float: left;
-	margin-left: 5%;
-	margin-right: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
 	margin-top: 2%;
 	color: black;
 	font-size: 2.5em;
@@ -112,8 +112,6 @@ a{
 	text-align: right;
 }
 #Opi{
-	text-decoration:underline;
-	margin-left: 10px;
 	font-weight: bold;
 	font-size: 1.5em;
 }
@@ -150,14 +148,15 @@ a{
 	background-color: #000000FF;
 }
 #SName{
-	background-color: #FFFFFFFF;
+	text-decoration:underline;
 	line-height: 33px;
 	text-align: center;
 }
 #SStd{
 	vertical-align: top;
 }
-#Simg{background-color: ;
+#Simg{
+	background-color: ;
 }
 /* -------------------------------------------- SHOP END -------------------------------------------- */
 
@@ -254,7 +253,7 @@ a{
 #moves{
 	float: left;
 	width: 100%;
-	background-image: url(http://www.kartinki24.ru/uploads/gallery/main/196/kartinki24_ru_forest_78.jpg);
+	background-image: url(https://pp.userapi.com/c848732/v848732212/1689e2/2k42cswY6Tk.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
@@ -268,7 +267,7 @@ a{
 	color: white;
 	font-family: Oswald;
 	line-height: 30px;
-	text-shadow: 1px 1px 2px silver;
+	text-shadow: 2px 2px 0px #3F3F3FFF;
 }
 #movtr{
 	float: left;
@@ -283,6 +282,7 @@ a{
 	text-align: left;
 	vertical-align: top;
 	font-size: 1.5em;
+	background-color:#0000005F;
 }
 
 
