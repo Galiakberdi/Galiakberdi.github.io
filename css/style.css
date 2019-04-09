@@ -181,7 +181,8 @@ a{
 	background-image: url(https://pp.userapi.com/c845419/v845419371/1e4ca8/P0zfh7fltAk.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
-	background-size: 100%;
+	background-size: cover;
+	height: 1000px;
 }
 #bacg2{
 	float: left;
@@ -190,6 +191,7 @@ a{
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
+	height: 1000px;
 }
 #bacg3{
 	float: left;
@@ -198,6 +200,7 @@ a{
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
+	height: 1000px;
 }
 #bacg4{
 	float: left;
@@ -206,6 +209,7 @@ a{
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
+	height: 1000px;
 }
 #bacg5{
 	float: left;
@@ -214,13 +218,16 @@ a{
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
+	height: 1000px;
 }
 #bacg6{
+	float: left;
 	width: 100%;
 	background-image: url(https://pp.userapi.com/c845419/v845419371/1e4ca8/P0zfh7fltAk.jpg);
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
+	height: 1000px;
 }
 #bacg7{
 	float: left;
@@ -229,6 +236,7 @@ a{
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
+	height: 1000px;
 }
 #bacg8{
 	float: left;
@@ -237,16 +245,22 @@ a{
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	background-size: 100%;
+	height: 1000px;
 }
 #arttxt{
 	float: left;
 	margin-left: 2%;
 	margin-top: 2%;
 	margin-right: 2%;
+	margin-bottom: 2%;
 	font-size: 1.3em;
-	text-shadow: 1px 2px 0px white ;
+	background-color: #FFFFFF9A;
 	font-family: Oswald;
 	font-weight: bold;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 2%;
+	padding-bottom: 2%;
 }
 /* -------------------------------------------- ARTICLE 1-6 END --------------------------------------------*/
 /* --------------------------------------------       MOVE       --------------------------------------------*/
